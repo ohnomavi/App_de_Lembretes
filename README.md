@@ -5,8 +5,7 @@ Teste realizado em kotlin para a vaga de estágio android.
 
 <h2 align="center">Instruções pra executar o sistema</h2>
 
-<div
-div style='text-align:right
+<div style='text-align:right>
 Abrir no Android Studio > Executar
 Preencher Nome do lembrete
 Preencher Data do lembrete
@@ -48,5 +47,5 @@ O projeto ficaria muito maior e mais trabalhoso considerando Java e CSS.
 Formato:
 Considerando a vaga anunciada como "estágio android" a escolha foi pelo formato mobile.
 
-           </div>
+   </div>
 
