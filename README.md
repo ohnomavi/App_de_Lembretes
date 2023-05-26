@@ -40,7 +40,7 @@ Informar o nome e a data nos campos designados para cada item.
 
  Datas já existentes serão adicionadas apenas 1 vez, os lembretes ficarão em sequencia abaixo da data comum.
 
- Os dias da lista de são exibidos em ordem cronológica.
+ Os dias da lista são exibidos em ordem cronológica.
 
 ✔️ Caso os lembretes ultrapassem o tamanho da tela, existe o scroll na lateral (funciona apenas vertical).
 
