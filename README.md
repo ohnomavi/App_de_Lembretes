@@ -7,8 +7,11 @@ Teste realizado em kotlin para a vaga de estágio android.
 
 
 Abrir no Android Studio > Executar
+
 Preencher Nome do lembrete
+
 Preencher Data do lembrete
+
 Clicar em botão Criar
 
 A lista irá aparecer em ordem de data mais recente para mais distante.
