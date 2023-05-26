@@ -1,14 +1,12 @@
-Teste-DTI-Android
+
 <h1 align="center">Teste-DTI-Android</h1>
 Teste realizado em kotlin para a vaga de estágio android.
 
 
 <h2 align="center">Instruções pra executar o sistema</h2>
 
-<div 
-  div style='text-align:right
-  </div>
- Abrir no Android Studio > Executar
+
+Abrir no Android Studio > Executar
 Preencher Nome do lembrete
 Preencher Data do lembrete
 Clicar em botão Criar
@@ -18,7 +16,6 @@ A lista irá aparecer em ordem de data mais recente para mais distante.
 Utilizar barra lateral para scroll
 
 Clicar no ícone de lixeira vermelha para excluir
-</p>
 
 <h2 align="center">Premissas assumidas</h2>
 
