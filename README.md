@@ -23,10 +23,13 @@ Clicar no ícone de lixeira vermelha para excluir
 <h2 align="center">Premissas assumidas</h2>
 
 ✔️ É possível adicionar um novo lembrete: 
+
 Informar o nome e a data nos campos designados para cada item.
 
 ✔️ Ao clicar em “Criar”, os campo são validados com as regras:
+
  O campo “Nome” deverá estar preenchido
+ 
  O campo “Data” deverá estar preenchido e não serão permitidas datas anteriores ao dia de preenchimento.
 
 ✔️ Os lembretes aparecerão em lista abaixo dos campos preenchidos, considerando:
