@@ -1,5 +1,5 @@
 
-<h1 align="center">Teste-DTI-Android</h1>
+<h1 align="center">Teste DTI - Estágio Dev Android</h1>
 Teste realizado em kotlin para a vaga de estágio android.
 
 
