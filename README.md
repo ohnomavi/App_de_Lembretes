@@ -1,7 +1,9 @@
-# Teste-DTI-Android
+Teste-DTI-Android
+<h1 align="center">Teste-DTI-Android</h1>
 Teste realizado em kotlin para a vaga de estágio android.
 
-** Instruções pra executar o sistema
+
+<h2 align="center">Instruções pra executar o sistema</h2>
 
 Abrir no Android Studio > Executar
 Preencher Nome do lembrete
@@ -14,7 +16,8 @@ Utilizar barra lateral para scroll
 
 Clicar no ícone de lixeira vermelha para excluir
 
-** Premissas assumidas
+
+<h2 align="center">Premissas assumidas</h2>
 
 É possível adicionar um novo lembrete, informando o nome e a data nos campos designados para cada item.
 
@@ -35,7 +38,7 @@ Os dias da lista de são exibidos em ordem cronológica.
 Caso os lembretes ultrapassem o tamanho da tela, existe o scroll na lateral (funciona apenas vertical).
 
 
-** Decisões de projeto
+<h2 align="center">Decisões de projeto</h2>
 
 Linguagem:
 Foi escolhida a linguagem Kotlin, considerando que seria mais rápido para criar um app android e realizar as atividades propostas.
