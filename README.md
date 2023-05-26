@@ -43,6 +43,7 @@ Caso os lembretes ultrapassem o tamanho da tela, existe o scroll na lateral (fun
 Linguagem:
 Foi escolhida a linguagem Kotlin, considerando que seria mais rápido para criar um app android e realizar as atividades propostas.
 O projeto ficaria muito maior e mais trabalhoso considerando Java e CSS.
+
 Formato:
 Considerando a vaga anunciada como "estágio android" a escolha foi pelo formato mobile.
 
