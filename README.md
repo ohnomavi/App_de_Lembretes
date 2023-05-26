@@ -5,7 +5,8 @@ Teste realizado em kotlin para a vaga de estágio android.
 
 <h2 align="center">Instruções pra executar o sistema</h2>
 
-<div style='text-align:right>
+<div 
+     <p>style='text-align:right
 Abrir no Android Studio > Executar
 Preencher Nome do lembrete
 Preencher Data do lembrete
