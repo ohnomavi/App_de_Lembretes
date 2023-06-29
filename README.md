@@ -1,6 +1,6 @@
 
-<h1 align="center">Teste DTI - Estágio Dev Android</h1>
-Teste realizado em kotlin para a vaga de estágio android.
+<h1 align="center">App de Lembretes</h1>
+Realizado em kotlin para aprendizado.
 
 
 <h2 align="center">Instruções pra executar o sistema</h2>
@@ -48,11 +48,9 @@ Informar o nome e a data nos campos designados para cada item.
 <h2 align="center">Decisões de projeto</h2>
 
 Linguagem:
-Foi escolhida a linguagem Kotlin, considerando que seria mais rápido para criar um app android e realizar as atividades propostas.
+Foi escolhida a linguagem Kotlin, considerando que seria mais compativel considerando um app android.
 O projeto ficaria muito maior e mais trabalhoso considerando Java e CSS.
 
-Formato:
-Considerando a vaga anunciada como "estágio android" a escolha foi pelo formato mobile.
 
  
 
